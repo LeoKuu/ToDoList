@@ -1,4 +1,4 @@
-# todolist
+# Todolist
 
 ## Project setup
 ```
@@ -10,15 +10,6 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+![image](https://github.com/LeoKuu/ToDoList/blob/main/todolist.png)
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
